@@ -1,3 +1,4 @@
 # ExampleProject
 
-Conflict
+##About Us
+This is our example project.

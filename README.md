@@ -1,3 +1,3 @@
 # ExampleProject
 
-Hi there
+Conflict
